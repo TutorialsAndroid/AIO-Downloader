@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">AIO</string>
+    <string name="credits_no_data">Credits: no data yet — run a download to sync</string>
+    <string name="starting_download">Starting download…</string>
+    <string name="please_paste_url">Please paste a URL</string>
+
+    <!-- Download progress card -->
+    <string name="status_starting">Starting download…</string>
+    <string name="status_completed">Completed ✓</string>
+    <string name="status_completed_with_size">Completed ✓  %1$s</string>
+    <string name="status_failed">Failed ✗</string>
+    <string name="status_failed_with_reason">Failed ✗  (reason %1$d)</string>
+    <string name="status_downloading">Downloading…  %1$s / %2$s</string>
+
+    <!-- Card headline / file subtitle -->
+    <string name="card_headline">%1$s • %2$s • %3$s</string>
+    <string name="file_unknown_size">\?</string>
+    <string name="app_name_desc">Paste a link from Instagram, TikTok, YouTube, X, Facebook or Pinterest.</string>
+    <string name="credits_loading">Credits: Loading…</string>
+    <string name="paste_media_url_here">Paste media URL here</string>
+    <string name="download">Download</string>
+    <string name="downloads">Downloads</string>
+
+    <!-- Progress card labels -->
+    <string name="progress_zero">0%</string>
+    <string name="progress_full">100%</string>
+    <string name="progress_none">—</string>
+    <string name="badge_completed">✓</string>
+    <string name="badge_media">M</string>
+
+    <!-- Percentage format -->
+    <string name="progress_percent">%1$d%%</string>
+
+    <!-- Tap-to-open flow -->
+    <string name="open_with">Open with</string>
+    <string name="file_not_ready">File is still downloading — please wait.</string>
+    <string name="file_not_found">File is no longer available. It may have been deleted.</string>
+    <string name="no_app_to_open">No app can open this file type.</string>
+</resources>
